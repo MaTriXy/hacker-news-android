@@ -20,7 +20,7 @@ import butterknife.InjectView;
 import io.dwak.holohackernews.app.R;
 import io.dwak.holohackernews.app.models.Story;
 import io.dwak.holohackernews.app.preferences.UserPreferenceManager;
-import io.dwak.holohackernews.app.ui.ViewModelFragment;
+import io.dwak.holohackernews.app.base.ViewModelFragment;
 import retrofit.RetrofitError;
 import rx.Observable;
 import rx.Subscriber;

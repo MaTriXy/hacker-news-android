@@ -36,7 +36,7 @@ import io.dwak.holohackernews.app.R;
 import io.dwak.holohackernews.app.models.Comment;
 import io.dwak.holohackernews.app.models.StoryDetail;
 import io.dwak.holohackernews.app.preferences.UserPreferenceManager;
-import io.dwak.holohackernews.app.ui.ViewModelFragment;
+import io.dwak.holohackernews.app.base.ViewModelFragment;
 import io.dwak.holohackernews.app.util.HNLog;
 import io.dwak.holohackernews.app.widget.ObservableWebView;
 import io.dwak.holohackernews.app.widget.ReboundRevealRelativeLayout;

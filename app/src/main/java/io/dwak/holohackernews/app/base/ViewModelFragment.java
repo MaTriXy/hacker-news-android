@@ -1,12 +1,9 @@
-package io.dwak.holohackernews.app.ui;
+package io.dwak.holohackernews.app.base;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-
-import io.dwak.holohackernews.app.base.BaseFragment;
-import io.dwak.holohackernews.app.base.BaseViewModel;
 
 /**
  * Created by vishnu on 3/13/15.
